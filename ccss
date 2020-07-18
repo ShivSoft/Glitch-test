@@ -1,0 +1,46 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Agency FB, sans-serif;
+  font-size:20px;
+  margin: 500m;
+  background-color: #00ffb7
+}
+
+
+
+h1 {
+  font-style: Agency FB;
+  color: #5d00ff;
+  font-size:50px;
+}
+
+h2 {
+  font-style: Agency FB;
+  color: #000000;
+  font-size:40px;
+}
+h3 {
+  font-style: Agency FB;
+  color: #000000;
+  font-size:40px;
+}
+h4 {
+  font-style: Agency FB;
+  color: #000000;
+  font-size:40px;
+}
+h5 {
+  font-style: Agency FB;
+  color: #000000;
+  font-size:35px;
+  
+}
+
+a {
+  font-style: Agency FB;
+  color: #0000FF;
+  font-size:50px;
+  
+}
+
